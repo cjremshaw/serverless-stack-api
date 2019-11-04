@@ -39,6 +39,7 @@ jspm_packages
 # vim
 .*.sw*
 Session.vim
+*~
 
 # Serverless
 .webpack
@@ -50,3 +51,4 @@ env.yml
 
 # Jetbrains IDEs
 .idea
+
